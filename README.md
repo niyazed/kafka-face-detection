@@ -1,4 +1,4 @@
-# kafka-centerface
+# Realtime face detection using Kafka video streaming 
 - Face detection using Kafka | OpenCV | Centerface | Flask
 - Producer-Consumer based architecture.
 
