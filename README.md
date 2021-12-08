@@ -1,6 +1,7 @@
 # Realtime face detection using Kafka video streaming 
-- Face detection using Kafka | OpenCV | Centerface | Flask
+- Face detection using Kafka | OpenCV | Centerface | Flask | MySQL
 - Running kafka using docker
+- Stored face images
 
 ## Installation
 - Install docker, docker-compose
